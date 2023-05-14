@@ -419,7 +419,7 @@
           }
         })]), i("span", {
           staticClass: "tooltip"
-        }, [t._v("フルスクリーン表示")])] : [i("button", {
+        }, [t._v("フルスクリーン表示 解除")])] : [i("button", {
           on: {
             click: function (e) {
               return t.fullscreen(!0)
