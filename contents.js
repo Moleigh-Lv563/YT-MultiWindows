@@ -414,7 +414,7 @@
           }
         }, [i("img", {
           attrs: {
-            src: s("e618"),
+            src: s("599b"),
             alt: "Exit full screen"
           }
         })]), i("span", {
